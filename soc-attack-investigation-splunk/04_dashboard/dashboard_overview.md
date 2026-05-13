@@ -132,8 +132,14 @@ within Splunk dashboard panels.
 
 ![Dashboard Overview](../soc_dashboard_overview.png)
 
+![Dashboard Overview](../soc_dashboard_overview1.png)
+
+![Dashboard Overview](../soc_dashboard_overview2.png)
+
 
 ### Authentication Monitoring Panel
+
+![Authentication Monitoring](../authentication_correlation_logs.png)
 
 
 ![Authentication Monitoring](../authentication_dashboard_panel.png)
@@ -144,10 +150,18 @@ within Splunk dashboard panels.
 
 ![Privilege Escalation Monitoring](../privilege_dashboard_panel.png)
 
+![Privilege Escalation Monitoring](../privilege_dashboard_panel0.png)
+
+![Privilege Escalation Monitoring](../privilege_escalation_dashboard.png)
+
+![Privilege Escalation Monitoring](../privilege_escalation_dashboard1.png)
+
 ### PowerShell Monitoring
 
+![PowerShell Monitoring](../powershell_dashboard.png)
 
-![PowerShell Monitoring](../powershell_dashboard_panel.png)
+
+![PowerShell Monitoring](../powershell_dashboard_panel1.png)
 
 
 ---
