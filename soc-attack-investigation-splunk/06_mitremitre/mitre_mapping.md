@@ -214,17 +214,17 @@ The implementation improved understanding of:
 
 ### SOC Dashboard Overview
 
-
 ![SOC Dashboard](../soc_dashboard_overview.png)
 
+![SOC Dashboard](../soc_dashboard_overview1.png)
 
-### Authentication Correlation
-
-
-![Dashboard Overview](../soc_dashboard_overview.png)
+![SOC Dashboard](../soc_dashboard_overview2.png)
 
 
 ### Authentication Monitoring Panel
+
+
+![Authentication Monitoring](../authentication_correlation_logs.png)
 
 
 ![Authentication Monitoring](../authentication_dashboard_panel.png)
@@ -239,7 +239,7 @@ The implementation improved understanding of:
 ### PowerShell Monitoring
 
 
-![PowerShell Monitoring](../powershell_dashboard_panel.png)
+![PowerShell Monitoring](../powershell_dashboard_panel1.png)
 
 
 
