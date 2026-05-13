@@ -102,21 +102,21 @@ after suspicious PowerShell activity was detected.
 
 ### Alert Configuration
 
-```markdown
+
 ![PowerShell Logs](../powershell_raw_logs.png)
-```
+
 
 ### Triggered Alert
 
-```markdown
+
 ![PowerShell Alert](../powershell_alert.png)
-```
+
 
 ### Dashboard Visualization
 
-```markdown
+
 ![PowerShell Dashboard](../powershell_dashboard.png)
-```
+
 
 ---
 
