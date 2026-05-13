@@ -111,27 +111,27 @@ after suspicious authentication behavior occurred.
 
 ### Alert Configuration
 
-```markdown
+
 ![Login Correlation Query](../login_correlation_query_results.png)
-```
+
 
 ### Failed and Successful Login Events
 
-```markdown
+
 ![Authentication Logs](../authentication_correlation_logs.png)
-```
+
 
 ### Triggered Alert
 
-```markdown
+
 ![Correlation Alert](../login_correlation_alert.png)
-```
+
 
 ### Dashboard Visualization
 
-```markdown
+
 ![Correlation Dashboard](../login_correlation_dashboard.png)
-```
+
 
 
 ---
