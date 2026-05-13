@@ -214,33 +214,33 @@ The implementation improved understanding of:
 
 ### SOC Dashboard Overview
 
-```markdown
+
 ![SOC Dashboard](../soc_dashboard_overview.png)
-```
+
 
 ### Authentication Correlation
 
-```markdown
+
 ![Dashboard Overview](../soc_dashboard_overview.png)
-```
+
 
 ### Authentication Monitoring Panel
 
-```markdown
+
 ![Authentication Monitoring](../authentication_dashboard_panel.png)
-```
+
 
 ### Privilege Escalation Monitoring
 
-```markdown
+
 ![Privilege Escalation Monitoring](../privilege_dashboard_panel.png)
-```
+
 
 ### PowerShell Monitoring
 
-```markdown
+
 ![PowerShell Monitoring](../powershell_dashboard_panel.png)
-```
+
 
 
 ---
