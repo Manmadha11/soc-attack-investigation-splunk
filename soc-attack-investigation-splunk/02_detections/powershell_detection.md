@@ -105,27 +105,26 @@ suspicious PowerShell activity.
 
 ### PowerShell Detection Query
 
-```markdown
+
 ![PowerShell Query](../powershell_detection_query_results.png)
-```
+
 
 ### Raw PowerShell Logs
 
-```markdown
 ![PowerShell Logs](../powershell_raw_logs.png)
-```
+
 
 ### Triggered Alert
 
-```markdown
+
 ![PowerShell Alert](../powershell_alert.png)
-```
+
 
 ### Dashboard Visualization
 
-```markdown
+
 ![PowerShell Dashboard](../powershell_dashboard.png)
-```
+
 
 ---
 
