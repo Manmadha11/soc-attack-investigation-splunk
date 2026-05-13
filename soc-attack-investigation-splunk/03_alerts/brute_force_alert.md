@@ -106,27 +106,26 @@ after the configured threshold was reached.
 
 ### Alert Configuration
 
-```markdown
 ![Alert Configuration](../brute_force_alert_configuration.png)
-```
+
 
 ### Triggered Alert
 
-```markdown
+
 ![Triggered Alert](../brute_force_triggered_alert.png)
-```
+
 
 ### Detection Results
 
-```markdown
+
 ![Detection Results](../brute_force_query_results.png)
-```
+
 
 ### Dashboard Monitoring
 
-```markdown
+
 ![Dashboard Monitoring](../brute_force_dashboard_panel.png)
-```
+
 
 ---
 
