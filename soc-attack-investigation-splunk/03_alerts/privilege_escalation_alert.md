@@ -108,32 +108,31 @@ after the privileged group modification occurred.
 
 ### Alert Configuration
 
-```markdown
+
 ![Privilege Escalation Query](../privilege_escalation_query_results.png)
 
 
 ![Privilege Escalation Query](../privilege_escalation_query_results2.png)
-```
+
 
 ### Raw Administrative Group Events
 
-```markdown
+
 ![Privilege Escalation Logs](../privilege_escalation_raw_logs.png)
-```
+
 
 ### Triggered Alert
 
-```markdown
 ![Privilege Escalation Alert](../privilege_escalation_alert.png)
-```
+
 
 ### Dashboard Visualization
 
-```markdown
+
 ![Privilege Escalation Dashboard](../privilege_escalation_dashboard.png)
 
 ![Privilege Escalation Dashboard](../privilege_escalation_dashboard1.png)
-```
+
 
 ---
 
