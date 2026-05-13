@@ -101,36 +101,35 @@ within the Windows lab environment.
 The alert successfully triggered
 after the configured threshold was reached.
 
----
+
 
 ## 9. Supporting Evidence
 
 ### Alert Configuration
 
-```markdown
+
 ![Brute Force Query](../brute_force_query_results.png)
-```
+
 
 ### Failed Login Events
 
-```markdown
+
 ![Failed Login Logs](../failed_login_raw_logs.png)
-```
+
 
 ### Triggered Alert
 
-```markdown
+
 ![Triggered Alert](../brute_force_triggered_alert.png)
-```
+
 
 ### Dashboard Visualization
 
-```markdown
+
 ![Dashboard Panel](../brute_force_dashboard_panel.png)
-```
 
 
----
+
 
 ## 10. Conclusion
 
