@@ -103,27 +103,27 @@ the threshold condition was met.
 
 ### Brute Force Detection Query
 
-```markdown
+
 ![Brute Force Query](../brute_force_query_results.png)
-```
+
 
 ### Failed Login Events
 
-```markdown
+
 ![Failed Login Logs](../failed_login_raw_logs.png)
-```
+
 
 ### Triggered Alert
 
-```markdown
+
 ![Triggered Alert](../brute_force_triggered_alert.png)
-```
+
 
 ### Dashboard Visualization
 
-```markdown
+
 ![Dashboard Panel](../brute_force_dashboard_panel.png)
-```
+
 
 ---
 
